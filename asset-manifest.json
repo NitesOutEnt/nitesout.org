@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nitesout.org/static/css/main.b8fc74a0.css",
-    "main.js": "/nitesout.org/static/js/main.7c48f932.js",
+    "main.css": "/nitesout.org/static/css/main.e7fc4e8b.css",
+    "main.js": "/nitesout.org/static/js/main.78031834.js",
     "static/media/bar2-img.png": "/nitesout.org/static/media/bar2-img.d923f8107d3cc2965886.png",
     "static/media/bar1-img.png": "/nitesout.org/static/media/bar1-img.f2baf3963ac104e839f5.png",
     "static/media/bar3-img.png": "/nitesout.org/static/media/bar3-img.3def33d7e91ecd4e5011.png",
@@ -23,11 +23,11 @@
     "static/media/Deals-Pic.png": "/nitesout.org/static/media/Deals-Pic.b4ccae3655b5433afced.png",
     "static/media/Explore-Pic.png": "/nitesout.org/static/media/Explore-Pic.e8af806560adecd07fa3.png",
     "index.html": "/nitesout.org/index.html",
-    "main.b8fc74a0.css.map": "/nitesout.org/static/css/main.b8fc74a0.css.map",
-    "main.7c48f932.js.map": "/nitesout.org/static/js/main.7c48f932.js.map"
+    "main.e7fc4e8b.css.map": "/nitesout.org/static/css/main.e7fc4e8b.css.map",
+    "main.78031834.js.map": "/nitesout.org/static/js/main.78031834.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8fc74a0.css",
-    "static/js/main.7c48f932.js"
+    "static/css/main.e7fc4e8b.css",
+    "static/js/main.78031834.js"
   ]
 }
