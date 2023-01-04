@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nitesout.org/static/css/main.e7fc4e8b.css",
-    "main.js": "/nitesout.org/static/js/main.b9dce1bd.js",
+    "main.js": "/nitesout.org/static/js/main.9e67865d.js",
     "static/media/bar2-img.png": "/nitesout.org/static/media/bar2-img.d923f8107d3cc2965886.png",
     "static/media/bar1-img.png": "/nitesout.org/static/media/bar1-img.f2baf3963ac104e839f5.png",
     "static/media/bar3-img.png": "/nitesout.org/static/media/bar3-img.3def33d7e91ecd4e5011.png",
@@ -24,10 +24,10 @@
     "static/media/Explore-Pic.png": "/nitesout.org/static/media/Explore-Pic.e8af806560adecd07fa3.png",
     "index.html": "/nitesout.org/index.html",
     "main.e7fc4e8b.css.map": "/nitesout.org/static/css/main.e7fc4e8b.css.map",
-    "main.b9dce1bd.js.map": "/nitesout.org/static/js/main.b9dce1bd.js.map"
+    "main.9e67865d.js.map": "/nitesout.org/static/js/main.9e67865d.js.map"
   },
   "entrypoints": [
     "static/css/main.e7fc4e8b.css",
-    "static/js/main.b9dce1bd.js"
+    "static/js/main.9e67865d.js"
   ]
 }
