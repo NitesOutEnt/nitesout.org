@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.90047def.css",
+    "main.css": "/static/css/main.4d485420.css",
     "main.js": "/static/js/main.e79847a3.js",
     "static/media/storyphone.png": "/static/media/storyphone.f282ae782e5d319d1bb9.png",
     "static/media/LitesOut-poster.png": "/static/media/LitesOut-poster.8140889ebcf9f5807802.png",
@@ -31,11 +31,11 @@
     "static/media/Deals-Pic.png": "/static/media/Deals-Pic.b4ccae3655b5433afced.png",
     "static/media/Explore-Pic.png": "/static/media/Explore-Pic.e8af806560adecd07fa3.png",
     "index.html": "/index.html",
-    "main.90047def.css.map": "/static/css/main.90047def.css.map",
+    "main.4d485420.css.map": "/static/css/main.4d485420.css.map",
     "main.e79847a3.js.map": "/static/js/main.e79847a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.90047def.css",
+    "static/css/main.4d485420.css",
     "static/js/main.e79847a3.js"
   ]
 }
