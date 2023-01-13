@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4d485420.css",
-    "main.js": "/static/js/main.e79847a3.js",
+    "main.js": "/static/js/main.9d0df0e6.js",
     "static/media/storyphone.png": "/static/media/storyphone.f282ae782e5d319d1bb9.png",
     "static/media/LitesOut-poster.png": "/static/media/LitesOut-poster.8140889ebcf9f5807802.png",
     "static/media/AshePhone.png": "/static/media/AshePhone.cc09e6c47ea9ad8b4a1e.png",
@@ -14,11 +14,11 @@
     "static/media/bollywoodblackout.png": "/static/media/bollywoodblackout.802116f47d4e7afcfc33.png",
     "static/media/nimay.png": "/static/media/nimay.3c9fc973599af737dc61.png",
     "static/media/clear-litesout.png": "/static/media/clear-litesout.36b6056eb02d2a3560a1.png",
-    "static/media/jaden.png": "/static/media/jaden.635c7e6ef44e35042fd7.png",
     "static/media/findout-bg.png": "/static/media/findout-bg.fcc47b7100dd963c18e6.png",
     "static/media/akhila.png": "/static/media/akhila.ad9d9bab238acbeaa81f.png",
     "static/media/rohan.png": "/static/media/rohan.4a8f349abe9a45570869.png",
     "static/media/pray.png": "/static/media/pray.f43881be0bb1622c8cb8.png",
+    "static/media/jaden.png": "/static/media/jaden.513592ade10d0c49d16e.png",
     "static/media/NitesOut Gradient BG.jpg": "/static/media/NitesOut Gradient BG.99a19cbf10fc16abc410.jpg",
     "static/media/esha.png": "/static/media/esha.98f46da7ade6e40df011.png",
     "static/media/frightnitenoto.jpg": "/static/media/frightnitenoto.3119c518e3af07622a54.jpg",
@@ -32,10 +32,10 @@
     "static/media/Explore-Pic.png": "/static/media/Explore-Pic.e8af806560adecd07fa3.png",
     "index.html": "/index.html",
     "main.4d485420.css.map": "/static/css/main.4d485420.css.map",
-    "main.e79847a3.js.map": "/static/js/main.e79847a3.js.map"
+    "main.9d0df0e6.js.map": "/static/js/main.9d0df0e6.js.map"
   },
   "entrypoints": [
     "static/css/main.4d485420.css",
-    "static/js/main.e79847a3.js"
+    "static/js/main.9d0df0e6.js"
   ]
 }
