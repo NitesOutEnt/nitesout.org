@@ -10,4 +10,5 @@ Explore your city, your way, with NitesOut. Experience something new or find out
 
 ---
 
-##### Implemented via ReactJS⚛️ & Firebase🔥
+##### Implemented via ReactJS⚛️ & Firebase🔥.
+##### All code and design by NitesOut Team.
