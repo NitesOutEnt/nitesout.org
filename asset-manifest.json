@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.da0cfde1.css",
-    "main.js": "/static/js/main.e48f3531.js",
+    "main.css": "/static/css/main.67bca727.css",
+    "main.js": "/static/js/main.2e3baad4.js",
     "static/media/LitesOut-poster.png": "/static/media/LitesOut-poster.7a83c518941441c914ee.png",
     "static/media/ss5.jpg": "/static/media/ss5.120f52666f2083bfda06.jpg",
     "static/media/ss1.jpg": "/static/media/ss1.de90a084ae5e6493f326.jpg",
     "static/media/ss4.jpg": "/static/media/ss4.9b3a5eb936cdee496e85.jpg",
     "static/media/ss3.jpg": "/static/media/ss3.19861c3180d2060fb7d6.jpg",
     "static/media/ss2.jpg": "/static/media/ss2.dfba56bb56c24c286576.jpg",
+    "static/media/NasheDi-Banner.png": "/static/media/NasheDi-Banner.e92cee4b641026e77090.png",
     "static/media/bar2-img.png": "/static/media/bar2-img.d923f8107d3cc2965886.png",
     "static/media/lo6.jpg": "/static/media/lo6.ccba5da3f8070d4c3bd3.jpg",
     "static/media/lo2.jpg": "/static/media/lo2.ca166d085c57d6d4ea1d.jpg",
@@ -18,6 +19,7 @@
     "static/media/lo4.jpg": "/static/media/lo4.9dda71c77959b5c7b639.jpg",
     "static/media/lo5.jpg": "/static/media/lo5.a65dbb5fee5d6cc34724.jpg",
     "static/media/lo1.jpg": "/static/media/lo1.c5498163e6c9c15c22b0.jpg",
+    "static/media/NasheDi-poster.png": "/static/media/NasheDi-poster.c6b39af0e1cf43170a11.png",
     "static/media/bar3-img.png": "/static/media/bar3-img.3def33d7e91ecd4e5011.png",
     "static/media/NitesOut Gradient BG-rainbow.jpg": "/static/media/NitesOut Gradient BG-rainbow.2a81ef71c632e338eb3c.jpg",
     "static/media/jaden.png": "/static/media/jaden.1492a99824f74f3a1b9e.png",
@@ -25,7 +27,6 @@
     "static/media/NitesOut Gradient BG-rainbow2.jpg": "/static/media/NitesOut Gradient BG-rainbow2.1cc862dc7377bca050d7.jpg",
     "static/media/bollywoodblackout.png": "/static/media/bollywoodblackout.802116f47d4e7afcfc33.png",
     "static/media/nimay.png": "/static/media/nimay.3c9fc973599af737dc61.png",
-    "static/media/clear-litesout.png": "/static/media/clear-litesout.36b6056eb02d2a3560a1.png",
     "static/media/rohan.png": "/static/media/rohan.4a8f349abe9a45570869.png",
     "static/media/isabellaphone.png": "/static/media/isabellaphone.573bd5c0e77f62af39fb.png",
     "static/media/frightnitenoto.jpg": "/static/media/frightnitenoto.3119c518e3af07622a54.jpg",
@@ -34,20 +35,22 @@
     "static/media/jayke-phone.png": "/static/media/jayke-phone.911062979fb2b6db5fb9.png",
     "static/media/ashe-phone.png": "/static/media/ashe-phone.6e9047f05d9d002d0d99.png",
     "static/media/alt-BG.jpg": "/static/media/alt-BG.8cb7bee77dab6c7b8e9b.jpg",
+    "static/media/NasheDi-txt.png": "/static/media/NasheDi-txt.5020fd63dddf57263dfe.png",
     "static/media/phone-rings.png": "/static/media/phone-rings.1f2c82fcbbbae89aa302.png",
     "static/media/NitesOut Crown Black.png": "/static/media/NitesOut Crown Black.85a8a35aaa4a9ec26a6c.png",
     "static/media/NitesOut Crown White.png": "/static/media/NitesOut Crown White.666f4c9caaebe952d22a.png",
     "static/media/cc-logo.png": "/static/media/cc-logo.0dcbb8460b3668179d19.png",
     "static/media/noto-logo.png": "/static/media/noto-logo.f61e257329819f3090ef.png",
+    "static/media/sachi-logo.png": "/static/media/sachi-logo.49bc985651a8a1ebae26.png",
     "static/media/decades-logo.png": "/static/media/decades-logo.fb37f523fb3540a58d8f.png",
     "static/media/talk_notif.png": "/static/media/talk_notif.2372a9d926752d04ceec.png",
     "static/media/roar-logo.png": "/static/media/roar-logo.c2cd601482027111693d.png",
     "index.html": "/index.html",
-    "main.da0cfde1.css.map": "/static/css/main.da0cfde1.css.map",
-    "main.e48f3531.js.map": "/static/js/main.e48f3531.js.map"
+    "main.67bca727.css.map": "/static/css/main.67bca727.css.map",
+    "main.2e3baad4.js.map": "/static/js/main.2e3baad4.js.map"
   },
   "entrypoints": [
-    "static/css/main.da0cfde1.css",
-    "static/js/main.e48f3531.js"
+    "static/css/main.67bca727.css",
+    "static/js/main.2e3baad4.js"
   ]
 }
