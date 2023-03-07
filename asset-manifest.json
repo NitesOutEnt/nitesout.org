@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a91dd876.css",
-    "main.js": "/static/js/main.bd33d7d0.js",
+    "main.js": "/static/js/main.5c7cbad2.js",
     "static/media/LitesOut-poster.png": "/static/media/LitesOut-poster.7a83c518941441c914ee.png",
     "static/media/ss5.jpg": "/static/media/ss5.120f52666f2083bfda06.jpg",
     "static/media/ss1.jpg": "/static/media/ss1.de90a084ae5e6493f326.jpg",
@@ -47,10 +47,10 @@
     "static/media/roar-logo.png": "/static/media/roar-logo.c2cd601482027111693d.png",
     "index.html": "/index.html",
     "main.a91dd876.css.map": "/static/css/main.a91dd876.css.map",
-    "main.bd33d7d0.js.map": "/static/js/main.bd33d7d0.js.map"
+    "main.5c7cbad2.js.map": "/static/js/main.5c7cbad2.js.map"
   },
   "entrypoints": [
     "static/css/main.a91dd876.css",
-    "static/js/main.bd33d7d0.js"
+    "static/js/main.5c7cbad2.js"
   ]
 }
