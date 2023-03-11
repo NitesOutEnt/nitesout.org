@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.60b94e02.css",
-    "main.js": "/static/js/main.b97cc7cc.js",
+    "main.css": "/static/css/main.ec90b024.css",
+    "main.js": "/static/js/main.59873b65.js",
     "static/media/LitesOut-poster.png": "/static/media/LitesOut-poster.7a83c518941441c914ee.png",
     "static/media/ss5.jpg": "/static/media/ss5.120f52666f2083bfda06.jpg",
     "static/media/ss1.jpg": "/static/media/ss1.de90a084ae5e6493f326.jpg",
@@ -40,6 +40,7 @@
     "static/media/phone-rings.png": "/static/media/phone-rings.1f2c82fcbbbae89aa302.png",
     "static/media/NitesOut Crown Black.png": "/static/media/NitesOut Crown Black.85a8a35aaa4a9ec26a6c.png",
     "static/media/NitesOut Crown White.png": "/static/media/NitesOut Crown White.666f4c9caaebe952d22a.png",
+    "static/media/sunrise.png": "/static/media/sunrise.bd1b9b30f84d90dbdee9.png",
     "static/media/sigma.png": "/static/media/sigma.b89388271162685c4b89.png",
     "static/media/cc-logo.png": "/static/media/cc-logo.0dcbb8460b3668179d19.png",
     "static/media/noto-logo.png": "/static/media/noto-logo.f61e257329819f3090ef.png",
@@ -52,11 +53,11 @@
     "static/media/talk_notif.png": "/static/media/talk_notif.2372a9d926752d04ceec.png",
     "static/media/roar-logo.png": "/static/media/roar-logo.c2cd601482027111693d.png",
     "index.html": "/index.html",
-    "main.60b94e02.css.map": "/static/css/main.60b94e02.css.map",
-    "main.b97cc7cc.js.map": "/static/js/main.b97cc7cc.js.map"
+    "main.ec90b024.css.map": "/static/css/main.ec90b024.css.map",
+    "main.59873b65.js.map": "/static/js/main.59873b65.js.map"
   },
   "entrypoints": [
-    "static/css/main.60b94e02.css",
-    "static/js/main.b97cc7cc.js"
+    "static/css/main.ec90b024.css",
+    "static/js/main.59873b65.js"
   ]
 }
