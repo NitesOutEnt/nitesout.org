@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.71b89dc0.css",
-    "main.js": "/static/js/main.12dfe2b7.js",
+    "main.css": "/static/css/main.758b877d.css",
+    "main.js": "/static/js/main.45c811e3.js",
     "static/media/LitesOut-poster.png": "/static/media/LitesOut-poster.7a83c518941441c914ee.png",
     "static/media/ss5.jpg": "/static/media/ss5.120f52666f2083bfda06.jpg",
+    "static/media/Red Final - Banner.png": "/static/media/Red Final - Banner.b68847053393fff317df.png",
     "static/media/ss1.jpg": "/static/media/ss1.de90a084ae5e6493f326.jpg",
     "static/media/ss4.jpg": "/static/media/ss4.9b3a5eb936cdee496e85.jpg",
     "static/media/ss3.jpg": "/static/media/ss3.19861c3180d2060fb7d6.jpg",
@@ -19,7 +20,6 @@
     "static/media/lo4.jpg": "/static/media/lo4.9dda71c77959b5c7b639.jpg",
     "static/media/lo5.jpg": "/static/media/lo5.a65dbb5fee5d6cc34724.jpg",
     "static/media/lo1.jpg": "/static/media/lo1.c5498163e6c9c15c22b0.jpg",
-    "static/media/afro-banner.png": "/static/media/afro-banner.f7f1385a2547468545eb.png",
     "static/media/NasheDi-poster.png": "/static/media/NasheDi-poster.c6b39af0e1cf43170a11.png",
     "static/media/Darty-Bg.jpg": "/static/media/Darty-Bg.82531f5b9ce5a44838ac.jpg",
     "static/media/bar3-img.png": "/static/media/bar3-img.3def33d7e91ecd4e5011.png",
@@ -60,11 +60,11 @@
     "static/media/talk_notif.png": "/static/media/talk_notif.2372a9d926752d04ceec.png",
     "static/media/roar-logo.png": "/static/media/roar-logo.c2cd601482027111693d.png",
     "index.html": "/index.html",
-    "main.71b89dc0.css.map": "/static/css/main.71b89dc0.css.map",
-    "main.12dfe2b7.js.map": "/static/js/main.12dfe2b7.js.map"
+    "main.758b877d.css.map": "/static/css/main.758b877d.css.map",
+    "main.45c811e3.js.map": "/static/js/main.45c811e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.71b89dc0.css",
-    "static/js/main.12dfe2b7.js"
+    "static/css/main.758b877d.css",
+    "static/js/main.45c811e3.js"
   ]
 }
